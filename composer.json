@@ -1,5 +1,5 @@
 {
-    "name": "csa/guzzle-bundle",
+    "name": "datana-gmbh/guzzle-bundle",
     "type": "symfony-bundle",
     "description": "A bundle integrating GuzzleHttp >= 4.0",
     "license": "Apache-2.0",
